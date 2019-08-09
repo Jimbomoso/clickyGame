@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/clickygame/static/css/main.1b25b348.chunk.css",
+    "main.js": "/clickygame/static/js/main.a580b01d.chunk.js",
+    "main.js.map": "/clickygame/static/js/main.a580b01d.chunk.js.map",
+    "runtime~main.js": "/clickygame/static/js/runtime~main.bb8261cb.js",
+    "runtime~main.js.map": "/clickygame/static/js/runtime~main.bb8261cb.js.map",
+    "static/js/2.52abbe24.chunk.js": "/clickygame/static/js/2.52abbe24.chunk.js",
+    "static/js/2.52abbe24.chunk.js.map": "/clickygame/static/js/2.52abbe24.chunk.js.map",
+    "index.html": "/clickygame/index.html",
+    "precache-manifest.e60a436c8c8d04ba8ec3a23c1600d117.js": "/clickygame/precache-manifest.e60a436c8c8d04ba8ec3a23c1600d117.js",
+    "service-worker.js": "/clickygame/service-worker.js",
+    "static/css/main.1b25b348.chunk.css.map": "/clickygame/static/css/main.1b25b348.chunk.css.map",
+    "static/media/car1.jpg": "/clickygame/static/media/car1.133cf1ce.jpg",
+    "static/media/car10.jpg": "/clickygame/static/media/car10.8f433a13.jpg",
+    "static/media/car11.jpg": "/clickygame/static/media/car11.c30f913f.jpg",
+    "static/media/car12.jpg": "/clickygame/static/media/car12.dc2065d2.jpg",
+    "static/media/car3.jpg": "/clickygame/static/media/car3.52919fbe.jpg",
+    "static/media/car4.jpg": "/clickygame/static/media/car4.3246a082.jpg",
+    "static/media/car5.jpg": "/clickygame/static/media/car5.68d49b2d.jpg",
+    "static/media/car6.jpg": "/clickygame/static/media/car6.df86231b.jpg",
+    "static/media/car7.jpg": "/clickygame/static/media/car7.ea88a52c.jpg",
+    "static/media/car8.jpg": "/clickygame/static/media/car8.9b1dfb74.jpg",
+    "static/media/car9.jpg": "/clickygame/static/media/car9.2472c7f7.jpg"
+  }
+}
